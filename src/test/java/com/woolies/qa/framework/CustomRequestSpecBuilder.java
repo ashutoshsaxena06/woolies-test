@@ -1,4 +1,4 @@
-package com.api.enrolment.student.framework;
+package com.woolies.qa.framework;
 
 import io.restassured.builder.RequestSpecBuilder;
 

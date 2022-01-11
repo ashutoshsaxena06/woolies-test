@@ -1,4 +1,4 @@
-package com.api.enrolment.student.dto;
+package com.woolies.qa.dto;
 
 public class Student {
     private String firstName;

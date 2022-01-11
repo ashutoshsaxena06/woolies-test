@@ -1,6 +1,6 @@
-package com.api.enrolment.student.steps;
+package com.woolies.qa.steps;
 
-import com.api.enrolment.student.framework.BaseApi;
+import com.woolies.qa.framework.BaseApi;
 import cucumber.api.java.en.And;
 import cucumber.api.java.en.Then;
 import org.hamcrest.MatcherAssert;
@@ -24,4 +24,5 @@ public class CommonSteps {
                 , baseApi.getResponse().getBody().path("error")
                 , Matchers.equalTo(error));
     }
+
 }

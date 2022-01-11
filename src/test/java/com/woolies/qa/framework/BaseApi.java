@@ -1,6 +1,6 @@
-package com.api.enrolment.student.framework;
+package com.woolies.qa.framework;
 
-import com.api.enrolment.student.config.MethodType;
+import com.woolies.qa.config.MethodType;
 import io.restassured.RestAssured;
 import io.restassured.config.RestAssuredConfig;
 import io.restassured.parsing.Parser;

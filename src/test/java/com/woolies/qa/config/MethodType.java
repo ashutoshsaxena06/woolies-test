@@ -1,4 +1,4 @@
-package com.api.enrolment.student.config;
+package com.woolies.qa.config;
 
 public enum MethodType {
     GET, POST, PUT, DELETE
